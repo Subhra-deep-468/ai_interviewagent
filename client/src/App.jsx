@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const ServerUrl  = "https://ai-interviewagent-backend-eptg.onrender.com"
+export const ServerUrl  = "https://ai-interviewagent-backend1.onrender.com"
 
 function App() {
 
